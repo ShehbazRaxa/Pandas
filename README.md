@@ -4,3 +4,5 @@ Working with arrays using python library numpy
 TensorFlow is an end-to-end open source platform for machine learning
 Keras is an open-source software library that provides a Python interface for artificial neural networks. 
 Keras acts as an interface for the TensorFlow library. 
+Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. 
+Learning can be supervised, semi-supervised or unsupervised.
