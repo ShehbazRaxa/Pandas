@@ -7,5 +7,6 @@ Keras acts as an interface for the TensorFlow library.
 Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. 
 Learning can be supervised, semi-supervised or unsupervised. 
 The different layers of a CNN. There are four types of layers for a convolutional neural network: the convolutional layer, the pooling layer, 
-the ReLU correction layer and the fully-connected layer. 
+the ReLU correction layers and the fully-connected layer. 
+A
  
