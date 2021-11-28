@@ -9,4 +9,4 @@ Learning can be supervised, semi-supervised or unsupervised.
 The different layers of a CNN. There are four types of layers for a convolutional neural network: the convolutional layer, the pooling layer, 
 the ReLU correction layers and the fully-connected layer. 
 
- 
+  
